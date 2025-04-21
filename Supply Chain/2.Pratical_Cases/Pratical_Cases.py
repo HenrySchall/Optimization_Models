@@ -37,8 +37,6 @@ load_packages({"radian":"rd", "pyomo.environ":"pyo", "gurobipy":"gp", "pandas":"
 "sklearn.preprocessing.LabelEncoder":"LabelEncoder", "sklearn.preprocessing.OneHotEncoder":"OneHotEncoder", "sklearn.naive_bayes.GaussianNB":"GNB", 
 "sklearn.preprocessing.MinMaxScaler":"MinMaxScaler", "sklearn.preprocessing.MinMaxScaler":"MinMaxScaler", "sklearn.model_selection.train_test_split":"train_test_split"})
 
-# License Key Gurobi -> grbgetkey 6b409973-a9d4-42f8-86ef-0bca3652fa1d
-
 #################
 ### Example 1 ###
 #################
