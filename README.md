@@ -17,6 +17,8 @@ A função objetivo ou restrições não são lineares.
 
 Exemplo: Problemas com economia de escala, energia, curvas de custo.
 
+inteira mistas linear e nao linerar (MILP e MINLP)
+
 🔹 4. Programação Dinâmica
 Divide o problema em subproblemas menores e resolve recursivamente.
 
