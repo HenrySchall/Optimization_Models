@@ -34,6 +34,8 @@ Lida com mais de um objetivo (ex: minimizar custo e maximizar qualidade).
 
 Métodos comuns: Fronteira de Pareto, pesos ponderados.
 
+Otimização dos custos logísticos
+
 🔹 7. Metaheurísticas
 Exemplos: Algoritmo Genético, Simulated Annealing, PSO.
 
